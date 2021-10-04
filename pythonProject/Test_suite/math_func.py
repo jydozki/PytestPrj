@@ -1,6 +1,11 @@
 def add(x, y):
     return x + y
 
+def animal(domestic , wild):
+    dog = domestic
+    lion = wild
+    return animal
+
 def product(x, y):
     return x * y
 
